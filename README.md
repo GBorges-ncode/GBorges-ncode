@@ -1,4 +1,6 @@
-## Hello there. Gilberto Borges here.
+## Hello there. 
+## I am Gilberto Borges, a Fullstack Developer.
+
 ### Feel free to get in touch!
 
  <div>
@@ -12,8 +14,9 @@
   <img align="center" alt="Gilbert-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gilbert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gilbert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gilbert-Node" height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="Gilbert-Node" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Gilbert-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+ <img align="center" alt="Gilbert-postgres" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
  </div>
   
   ##
