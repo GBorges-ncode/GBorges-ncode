@@ -1,10 +1,10 @@
 ## Hello there. 
-## I am Gilberto Borges, a Fullstack Developer.
+## I'm Gilberto Borges, a Fullstack Developer.
 
 ### Feel free to get in touch!
 
  <div>
-  <a href="https://github.com/GBorges-ncode">
+  <a href="https://github.com/GBorges-ncode">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GBorges-ncode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBorges-ncode&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -26,5 +26,6 @@
   <a href="https://www.linkedin.com/in/gilbertoborgesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
